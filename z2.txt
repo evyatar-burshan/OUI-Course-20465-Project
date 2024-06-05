@@ -1,0 +1,4 @@
+
+"r0" is not a valid macro name in line 3: mcr r0 in file "z2.as"
+
+Errors detected in pre processor, output files will not be created
